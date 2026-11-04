@@ -30,8 +30,7 @@ Vercel is the web host. It publishes the site whenever the files in GitHub chang
 
 1. Go to https://vercel.com/signup.
 2. Click **Continue with GitHub** and approve the connection. (One less password.)
-3. Plan: Vercel's terms limit the free **Hobby** plan to personal, non-commercial sites.
-   Fiduciam is a business, so choose **Pro** ($20/month). You can start Pro's free trial.
+3. Plan: choose **Hobby** (free). You can upgrade to Pro later if you ever need it.
 
 ## Step 3. Copy the site into your accounts (2 min)
 
